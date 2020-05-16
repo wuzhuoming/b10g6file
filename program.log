@@ -1,7 +1,9 @@
-Multi-objective Optimisation with mobo(ucb-ts) using capital 21600.0 (realtime)
+Multi-objective Optimisation with mobo(ucb-ts) using capital 43200.0 (realtime)
 clean is finish
 clean is finish
-Capital spent on initialisation: 2489.8969(0.1153).
+clean is finish
+clean is finish
+Capital spent on initialisation: 1947.2076(0.0451).
 Legend: <iteration_number> (<num_successful_queries>, <fraction_of_capital_spent>):: #Pareto=<num_pareto_optimal_points_found>, acqs=<num_times_each_acquisition_was_used>
 clean is finish
 clean is finish
@@ -21,10 +23,7 @@ clean is finish
 clean is finish
 clean is finish
 clean is finish
-clean is finish
-clean is finish
-#013 (011, 0.576):: #Pareto: 4, acqs=[ucb:3, ts:7], 
-clean is finish
+#013 (011, 0.106):: #Pareto: 3, acqs=[ucb:6, ts:3], 
 clean is finish
 clean is finish
 clean is finish
@@ -40,4 +39,144 @@ clean is finish
 clean is finish
 clean is finish
 clean is finish
-#020 (019, 1.022):: #Pareto: 5, acqs=[ucb:4, ts:14], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#026 (024, 0.341):: #Pareto: 3, acqs=[ucb:15, ts:7], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#039 (037, 0.575):: #Pareto: 7, acqs=[ucb:21, ts:14], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#052 (050, 0.780):: #Pareto: 8, acqs=[ucb:28, ts:20], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#065 (063, 0.841):: #Pareto: 5, acqs=[ucb:34, ts:27], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#078 (076, 0.932):: #Pareto: 7, acqs=[ucb:38, ts:36], 
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+clean is finish
+#087 (086, 1.004):: #Pareto: 8, acqs=[ucb:44, ts:40], 
